@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;1,400&display=swap');
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(../img/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+}
+
+#glass {
+    background: radial-gradient(98.05% 261.61% at 1.95% 3.59%, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 100%);
+    backdrop-filter: blur(48px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 5px 10px;
+}
