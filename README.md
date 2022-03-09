@@ -4,4 +4,4 @@ Lista de tarefas a fazer do dia a dia.
 
 ##  Imagens
 
-![To-do List](https://raw.githubusercontent.com/santosfernando2377/To-do/main/img/exemplo.png)
+![To-do List](https://raw.githubusercontent.com/santosfernando2377/To-do/main/dist/css/img/exemplo.png)
