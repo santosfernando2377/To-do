@@ -1,4 +1,4 @@
-# To-do Simplificado
+# To-do (DOM)
 Oi! Meu nome é **Fernando Soares**, sou **Analista de Suporte** e adoro a área de tecnologia. Nesse projeto foi criado um to-do simplificado
 
 ### Dados do Projeto
